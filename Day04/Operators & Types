@@ -1,0 +1,32 @@
+Arithmetic Operators
+Used to perform mathematical operations.
+
+Operator	Meaning
++	        Addition
+-	        Subtraction
+*	        Multiplication
+/	        Division
+%	        Modulus (remainder)
+**	        Power
+//	        Floor division
+
+
+Comparison Operators
+Used to compare two values. Output is True or False.
+
+Operator	Meaning
+==	        Equal
+!=	        Not equal
+>	        Greater than
+<	        Less than
+>=	        Greater or equal
+<=	        Less or equal
+
+
+Logical Operators
+Used to combine conditions.
+
+Operator	Meaning
+and	        Both conditions must be True
+or	        At least one condition True
+not	        Reverse the result
