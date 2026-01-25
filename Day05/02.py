@@ -16,3 +16,13 @@ print(word[3])   # h
 word = "Python"
 print(word[0:3])   # Pyt
 print(word[2:5])   # tho
+
+
+# Common String Methods
+text = "hello world"
+
+print(text.upper())      # HELLO WORLD
+print(text.lower())      # hello world
+print(text.capitalize())# Hello world
+print(text.replace("world","python"))
+print(len(text))         # length of string
