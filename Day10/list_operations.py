@@ -1,4 +1,4 @@
-# append()  → adds item at end of list  
+# append()  → adds item at end of list
 # insert()  → adds item at specific index  
 # remove()  → removes given item  
 # pop()     → removes last item  
